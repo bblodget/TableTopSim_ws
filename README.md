@@ -1,7 +1,7 @@
 # TableTopSim_ws
 [HBRC](https://www.hbrobotics.org/)
 [TableTop Challenge](http://robogames.net/rules/tablebot.php) simulations in 
-[Gazebo](http://gazebosim.org/).
+[Gazebo](http://gazebosim.org/) and [ROS](http://www.ros.org).
 
 ## Under Development
 
