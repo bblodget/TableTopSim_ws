@@ -21,6 +21,6 @@
   <param name="robot_description" command="$(find xacro)/xacro.py '$(find tbot_description)/urdf/tbot.xacro'"/>
 
   <node name="tbot_spawn" pkg="gazebo_ros" type="spawn_model" output="screen"
-   args="-urdf -param robot_description -model tbot" />
+   args="-urdf -param robot_description -model tbot -x -0.9 -y 0 -z 1.1" />
 
 </launch>
