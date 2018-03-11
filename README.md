@@ -19,7 +19,7 @@ rosrun tbot_nav timed_out_and_back.py
 
 ## References
 
-* [tutorials](http://moorerobots.com/blog) : The
+* [MooreRobots Tutorials](http://moorerobots.com/blog) : The
   starting point for URDF and launch files.
 * [ROS By Examples books](http://www.pirobot.org) :
   Used examples as starting point for ROS code.
