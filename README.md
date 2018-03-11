@@ -3,8 +3,10 @@
 [http://robogames.net/rules/tablebot.php](TableTop Challenge) simulations in 
 [http://gazebosim.org/](Gazebo).
 
+## Additional Resources
+
 The starting point for this repository
-was the awesome 
+were the awesome 
 [http://moorerobots.com/blog](tutorials)
 over at
 MooreRobots.com.
