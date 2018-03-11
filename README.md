@@ -1,7 +1,7 @@
 # TableTopSim_ws
-[https://www.hbrobotics.org/](HBRC) 
-[http://robogames.net/rules/tablebot.php](TableTop Challenge) simulations in 
-[http://gazebosim.org/](Gazebo).
+[HBRC](https://www.hbrobotics.org/)
+[TableTop Challenge](http://robogames.net/rules/tablebot.php) simulations in 
+[Gazebo](http://gazebosim.org/).
 
 ## Under Development
 
@@ -15,7 +15,7 @@ roslaunch tbot_gazebo tbot_world.launch
 
 The starting point for this repository
 were the awesome 
-[http://moorerobots.com/blog](tutorials)
+[tutorials](http://moorerobots.com/blog)
 over at
 MooreRobots.com.
 
