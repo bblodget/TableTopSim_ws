@@ -9,6 +9,11 @@
     </include>
 
     <include>
+      <uri>model://cinder_block</uri>
+        <pose>0 0 1.1 0 0 1.5707</pose>
+    </include>
+
+    <include>
       <uri>model://ground_plane</uri>
     </include>
 
